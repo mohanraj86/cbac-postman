@@ -1,0 +1,29 @@
+[
+{
+  "port_id": "{{invent-card}}-ETHERNET-1"
+},
+{
+  "port_id": "{{invent-card}}-PON-5"
+},
+{
+  "port_id": "{{invent-card}}-PON-6"
+},
+{
+  "port_id": "{{invent-card}}-PON-7"
+},
+{
+  "port_id": "{{invent-card}}-PON-10"
+},
+{
+  "port_id": "{{invent-card}}-PON-11"
+},
+{
+  "port_id": "{{invent-card}}-PON-13"
+},
+{
+  "port_id": "{{invent-card}}-PON-19"
+},
+{
+  "port_id": "{{invent-card}}-PON-28"
+}
+]

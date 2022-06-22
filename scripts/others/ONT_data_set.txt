@@ -1,0 +1,29 @@
+# https://www.tutorialspoint.com/execute_bash_online.php
+
+#<copt/paste>,replace sN
+i=1  # start-number
+j=64  #end-number
+x=7  #pon port number
+
+SN=(
+ISKT019F37D4 
+ISKT0188EA84 
+ISKT019F35DC 
+
+)
+
+for (( a = $i; a <= $j; a++ ))
+        do
+                #y=`expr $a - 1`
+                b=ont$x
+                #if [ $( ls | grep $b.json ) ]; then rm $b.json; fi
+                echo "{" 
+                echo "  \"name\": \"ONT-$x-$a\","
+                echo "  \"serial_no\": \"${SN[$y]}\"," 
+                echo "  \"display_id\": \"ONT-$x-$a\","  
+                echo "  \"me_number\": \"$a\","
+                echo "  \"parent_port_id\": \"{{invent-card}}-PON-$x\"" 
+                echo "}," 
+                y=`expr $y + 1`
+        done
+

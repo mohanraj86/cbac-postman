@@ -1,0 +1,443 @@
+[
+{
+  "name": "ONT-11-1",
+  "serial_no": "ZTEGC1EF8518",
+  "display_id": "ONT-11-1",
+  "me_number": "1",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-2",
+  "serial_no": "ZTEGC1EF8520",
+  "display_id": "ONT-11-2",
+  "me_number": "2",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-3",
+  "serial_no": "ZTEGC1EF8527",
+  "display_id": "ONT-11-3",
+  "me_number": "3",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-4",
+  "serial_no": "ZTEGC1EF852A",
+  "display_id": "ONT-11-4",
+  "me_number": "4",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-5",
+  "serial_no": "ZTEGC1EF853A",
+  "display_id": "ONT-11-5",
+  "me_number": "5",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-6",
+  "serial_no": "ZTEGC1EF853B",
+  "display_id": "ONT-11-6",
+  "me_number": "6",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-7",
+  "serial_no": "ZTEGC1EF8541",
+  "display_id": "ONT-11-7",
+  "me_number": "7",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-8",
+  "serial_no": "ZTEGC1EF8543",
+  "display_id": "ONT-11-8",
+  "me_number": "8",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-9",
+  "serial_no": "ZTEGC1EF8544",
+  "display_id": "ONT-11-9",
+  "me_number": "9",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-10",
+  "serial_no": "ZTEGC1EF854C",
+  "display_id": "ONT-11-10",
+  "me_number": "10",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-11",
+  "serial_no": "ZTEGC1EF8556",
+  "display_id": "ONT-11-11",
+  "me_number": "11",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-12",
+  "serial_no": "ZTEGC1EF8557",
+  "display_id": "ONT-11-12",
+  "me_number": "12",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-13",
+  "serial_no": "ZTEGC1EF8562",
+  "display_id": "ONT-11-13",
+  "me_number": "13",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-14",
+  "serial_no": "ZTEGC1EF8564",
+  "display_id": "ONT-11-14",
+  "me_number": "14",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-15",
+  "serial_no": "ZTEGC1EF8568",
+  "display_id": "ONT-11-15",
+  "me_number": "15",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-16",
+  "serial_no": "ZTEGC1EF856E",
+  "display_id": "ONT-11-16",
+  "me_number": "16",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-17",
+  "serial_no": "ZTEGC1EF8570",
+  "display_id": "ONT-11-17",
+  "me_number": "17",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-18",
+  "serial_no": "ZTEGC1EF8576",
+  "display_id": "ONT-11-18",
+  "me_number": "18",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-19",
+  "serial_no": "ZTEGC1EF8577",
+  "display_id": "ONT-11-19",
+  "me_number": "19",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-20",
+  "serial_no": "ZTEGC1EF857B",
+  "display_id": "ONT-11-20",
+  "me_number": "20",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-21",
+  "serial_no": "ZTEGC1EF857D",
+  "display_id": "ONT-11-21",
+  "me_number": "21",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-22",
+  "serial_no": "ZTEGC1EF8589",
+  "display_id": "ONT-11-22",
+  "me_number": "22",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-23",
+  "serial_no": "ZTEGC1EF8592",
+  "display_id": "ONT-11-23",
+  "me_number": "23",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-24",
+  "serial_no": "ZTEGC1EF859E",
+  "display_id": "ONT-11-24",
+  "me_number": "24",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-25",
+  "serial_no": "ZTEGC1EF85AB",
+  "display_id": "ONT-11-25",
+  "me_number": "25",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-26",
+  "serial_no": "ZTEGC1EF85AC",
+  "display_id": "ONT-11-26",
+  "me_number": "26",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-27",
+  "serial_no": "ZTEGC1EF85B0",
+  "display_id": "ONT-11-27",
+  "me_number": "27",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-28",
+  "serial_no": "ZTEGC1EF85BA",
+  "display_id": "ONT-11-28",
+  "me_number": "28",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-29",
+  "serial_no": "ZTEGC1EF85C2",
+  "display_id": "ONT-11-29",
+  "me_number": "29",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-30",
+  "serial_no": "ZTEGC1EF85C7",
+  "display_id": "ONT-11-30",
+  "me_number": "30",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-31",
+  "serial_no": "ZTEGC1EF85CB",
+  "display_id": "ONT-11-31",
+  "me_number": "31",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-32",
+  "serial_no": "ZTEGC1EF85CD",
+  "display_id": "ONT-11-32",
+  "me_number": "32",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-33",
+  "serial_no": "ZTEGC1EF85D0",
+  "display_id": "ONT-11-33",
+  "me_number": "33",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-34",
+  "serial_no": "ZTEGC1EF85E0",
+  "display_id": "ONT-11-34",
+  "me_number": "34",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-35",
+  "serial_no": "ZTEGC1EF85E1",
+  "display_id": "ONT-11-35",
+  "me_number": "35",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-36",
+  "serial_no": "ZTEGC1EF85E8",
+  "display_id": "ONT-11-36",
+  "me_number": "36",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-37",
+  "serial_no": "ZTEGC1EF85EA",
+  "display_id": "ONT-11-37",
+  "me_number": "37",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-38",
+  "serial_no": "ZTEGC1EF860D",
+  "display_id": "ONT-11-38",
+  "me_number": "38",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-39",
+  "serial_no": "ZTEGC1EF8613",
+  "display_id": "ONT-11-39",
+  "me_number": "39",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-40",
+  "serial_no": "ZTEGC1EF861F",
+  "display_id": "ONT-11-40",
+  "me_number": "40",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-41",
+  "serial_no": "ZTEGC1EF8630",
+  "display_id": "ONT-11-41",
+  "me_number": "41",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-42",
+  "serial_no": "ZTEGC1EF8639",
+  "display_id": "ONT-11-42",
+  "me_number": "42",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-43",
+  "serial_no": "ZTEGC1EF8644",
+  "display_id": "ONT-11-43",
+  "me_number": "43",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-44",
+  "serial_no": "ZTEGC1EF864B",
+  "display_id": "ONT-11-44",
+  "me_number": "44",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-45",
+  "serial_no": "ZTEGC1EF8654",
+  "display_id": "ONT-11-45",
+  "me_number": "45",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-46",
+  "serial_no": "ZTEGC1EF865E",
+  "display_id": "ONT-11-46",
+  "me_number": "46",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-47",
+  "serial_no": "ZTEGC1EF8660",
+  "display_id": "ONT-11-47",
+  "me_number": "47",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-48",
+  "serial_no": "ZTEGC1EF8668",
+  "display_id": "ONT-11-48",
+  "me_number": "48",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-49",
+  "serial_no": "ZTEGC1EF8679",
+  "display_id": "ONT-11-49",
+  "me_number": "49",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-50",
+  "serial_no": "ZTEGC1EF8684",
+  "display_id": "ONT-11-50",
+  "me_number": "50",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-51",
+  "serial_no": "ZTEGC1EF8688",
+  "display_id": "ONT-11-51",
+  "me_number": "51",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-52",
+  "serial_no": "ZTEGC1EF86A0",
+  "display_id": "ONT-11-52",
+  "me_number": "52",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-53",
+  "serial_no": "ZTEGC1EF86AC",
+  "display_id": "ONT-11-53",
+  "me_number": "53",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-54",
+  "serial_no": "ZTEGC1EF86B2",
+  "display_id": "ONT-11-54",
+  "me_number": "54",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-55",
+  "serial_no": "ZTEGC1EF86BB",
+  "display_id": "ONT-11-55",
+  "me_number": "55",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-56",
+  "serial_no": "ZTEGC1EF86C3",
+  "display_id": "ONT-11-56",
+  "me_number": "56",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-57",
+  "serial_no": "ZTEGC1EF86C6",
+  "display_id": "ONT-11-57",
+  "me_number": "57",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-58",
+  "serial_no": "ZTEGC1EF86C9",
+  "display_id": "ONT-11-58",
+  "me_number": "58",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-59",
+  "serial_no": "ZTEGC1EF86CB",
+  "display_id": "ONT-11-59",
+  "me_number": "59",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-60",
+  "serial_no": "ZTEGC1EF86CE",
+  "display_id": "ONT-11-60",
+  "me_number": "60",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-61",
+  "serial_no": "ZTEGC1EF86F0",
+  "display_id": "ONT-11-61",
+  "me_number": "61",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-62",
+  "serial_no": "ZTEGC1EF86F8",
+  "display_id": "ONT-11-62",
+  "me_number": "62",
+  "parent_port_id": "{{invent-card}}-PON-11"
+},
+{
+  "name": "ONT-11-63",
+  "serial_no": "ZTEGC1EF8705",
+  "display_id": "ONT-11-63",
+  "me_number": "63",
+  "parent_port_id": "{{invent-card}}-PON-11"
+}
+]

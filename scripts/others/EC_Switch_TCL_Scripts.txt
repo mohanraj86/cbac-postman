@@ -1,0 +1,37 @@
+set i 1
+while {$i < 201} {
+  #puts "mac-address-table static 00-00-00-00-00-[format %x $i] interface ethernet 1/52 vlan [expr 1000+ $i]"
+   puts 00-00-00-00-00-[format %x $i]
+    incr i; 
+  }
+
+#serial number filter
+
+set q "
+ISKT019ED54E
+ISKT019ED3D6
+"
+set q [split $q "\n"]
+foreach line $q {
+if {[regexp "ISKT01" $line match]} {
+set aa [lindex $line 0]
+set xx [lindex $line 12]
+set yy [lindex $line 4]
+set zz [lindex $line 5]
+puts "\"$aa\""
+}
+}
+
+
+#switch config
+
+set i 1;
+set v 1150;
+while {$i < 48} {
+  puts "interface ethernet 1/$i"
+  puts "switchport mode access"
+  set Z [expr {$v + $i}]
+  puts "switchport allowed vlan add $Z"
+  puts "exit"
+  incr i; 
+  }

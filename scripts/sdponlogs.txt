@@ -1,0 +1,1 @@
+sudo -S <<< SCale@223 ./ems_cli_run.sh
